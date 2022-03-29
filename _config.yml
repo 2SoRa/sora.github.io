@@ -1,0 +1,243 @@
+title: SoRa's Portfolio
+name: SoRa Lee
+email: 2sora71@gmail.com
+description: >-
+  Web Publisher SoRa Lee
+
+
+baseurl: ""
+url: "https://sora.github.io"
+
+
+# profile 이미지
+profile_image: images/me_256x256.png
+
+
+# SNS 아이디
+facebook_id: 
+instagram_id: 
+
+
+# Youtube vid
+youtube_vid: #
+
+
+# Custom Color
+primary: 2c98f0 #19aad1
+primary_hover: 44A4F2 #9a2dc7
+color_1: 2c98f0 #b72cf0
+color_2: ec5453
+color_3: f9bf3f
+color_4: a84cb8
+color_5: 2fa499
+color_6: 4054b2
+
+
+# slider type 0  (텍스트가 우측 정렬된 슬라이더)
+slider_0: # 형식에 맞추어 항목 추가
+- background_url: images/cover_bg_1.jpg
+  title: 안녕하세요! <br>이소라입니다.</br>
+  position: absolute
+  transform: translate( -50%, -50% )
+  left: 0px
+  bottom: 500px
+
+
+# slider type 1  (텍스트가 좌측 정렬된 슬라이더)
+slider_1: # 형식에 맞추어 항목 추가
+- background_url: images/cover_bg_3.jpg
+  title: I am<br>Web Publisher
+  subtitle: >- 
+    천천히<br>
+    그리고 꾸준히<br>
+    끊임없이 노력하는<br>
+    이소라입니다.
+  position: absolute
+  transform: translate( -50%, -50% )
+  left: 20px
+  bottom: 550px
+
+# About
+about_meta: About Me
+about_header: >- 
+  "소통하는 퍼블리셔"
+about_introduce: >-
+  "안녕하세요. 4년차 퍼블리셔 이소라입니다."
+about_content: >-
+  방송일이 재밌어 보여 입학한 방송영상학과.<br>
+  그 중에서도 편집이 재미있어 편집을 좋아하던 학생이었습니다.<br>
+  졸업 후 방송쪽은 맞지 않는 것 같아 또 다른 편집일을 할 수 있는 스튜디오(사진관)로 첫 직장을 다녔고,<br>
+  카페 관리를 하다가 사이트도 편집 하는 것을 알게되었습니다.<br>
+  사이트를 편집하는 직업은 웹 퍼블리셔였고, <strong>"웹을 편집"</strong>한다고 생각하니 재밌고 멋진 일이라고 느꼈습니다.<br> 
+  매력을 느낀 저는 그 후로 관련 교육을 수강하여 퍼블리셔로 전향하게 되었습니다.<br>
+about_services: # 형식에 맞추어 항목 추가
+- icon: icon-monitor
+  name: PC Web<br>
+- icon: icon-phone3
+  name: Mobile
+- icon: icon-device-tablet
+  name: Tablet
+- icon: icon-code
+  name: HTML5, CSS3, JS
+about_box_content: >-
+  "하면 된다"<br><br>
+  무슨 일이라도 일단 도전하면 된다는 저희 집 가훈입니다.<br>
+  아버지의 말씀을 따라 도전정신을 갖고 임하는 태도를 갖게 되었습니다.
+
+about_box_content_color: rgb(255,255,255)
+
+#about_box_button:
+  #link: #
+  #name: sample
+
+
+# Tech  skill
+tech_meta: TECH SKILLS
+tech_header: 저는 현재 이것을 할 수 있습니다.
+tech_content: 
+tech_list: # 형식에 맞추어 항목 추가
+- name: HTML5
+  color: color-1
+  animation: fadeInLeft
+  percent: 90
+  mark: 90
+  content: 매번 마크업 하며 많이 사용하는 만큼 무엇보다 손에 익숙합니다. 그래서 빠르게 작업할 수 있습니다.
+- name: CSS3
+  color: color-2
+  animation: fadeInRight
+  percent: 80
+  mark: 80
+  content: 많이 알고 있는 것 같지만, 하다보면 또 어려운 점이 생기는 것 같습니다. 부족한 부분은 공부하여 채우려고 하고 있습니다.
+- name: JavaScript
+  color: color-3
+  animation: fadeInLeft
+  percent: 50
+  mark: 50
+  content: 제가 원하는 화면을 만들기 위해 꼭 필요하지만 익숙해지기 어렵다고 느껴집니다. 공부하고 또 공부하고 있습니다.
+- name: Github
+  color: color-4
+  animation: fadeInRight
+  percent: 20
+  mark: 20
+  content: 대부분의 프로젝트를 github를 통해 소스 코드를 공유하는 만큼 저 역시 익숙해지기 위해서 github서버를 이용한 포트폴리오 사이트를 관리하며 공부하고 있습니다. 
+tech_desc: 앞으로도 저의 발전을 위하여 JavaScript, Github 이외의 Vue, React 등 FrameWork도 공부할 것입니다.
+
+
+# Project
+project_meta: My Work
+project_header: PROJECT
+project_introduce: Project in e-future
+project_load_more: 앞으로 더 많은 프로젝트가 추가될 예정입니다:)    # 더보기 내용
+project_load_more_url: #
+project_team_name: 팀프로젝트
+project_team: # 형식에 맞추어 항목 추가
+- background_url: images/project1.jpg
+  animation: fadeInLeft
+  name: e-Library(기본) - 선생님
+  description: e-future의 Online Library입니다. 전체적으로 마크업 작업을 하였고, 필요에 따라 부분적으로 디자인 한 것도 있습니다. 이 사이트는 국내 기관(ex. 강원도 교육청)과 해외 수출용으로 만들어진 사이트입니다. 
+  detail_url: https://2sora.github.io/2sora_work.github.io/library1/web/teacher/main/main.html
+  readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/library1/web/teacher
+
+- background_url: images/project2.jpg
+  animation: fadeInLeft
+  name: e-Library(기본) - 학생
+  description: e-future의 Online Library입니다. 전체적으로 마크업 작업을 하였고, 필요에 따라 부분적으로 디자인 한 것도 있습니다. 이 사이트는 국내 기관(ex. 강원도 교육청)과 해외 수출용으로 만들어진 사이트입니다.
+  detail_url: https://2sora.github.io/2sora_work.github.io/library1/web/student/main/main.html
+  readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/library1/web/student
+
+- background_url: images/project3.jpg
+  animation: fadeInRight
+  name: e-Library(공부방) - 선생님
+  description: e-future의 Online Library입니다. 전체적으로 마크업 작업을 하였고, 필요에 따라 부분적으로 디자인 한 것도 있습니다. 이 사이트는 국내 공부방용(소규모 결제)으로 만들어진 사이트입니다.
+  detail_url: https://2sora.github.io/2sora_work.github.io/library2/web/teacher/main/main.html
+  readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/library2/web/teacher
+
+
+- background_url: images/project4.jpg
+  animation: fadeInRight
+  name: e-Library(공부방) - 학생
+  description: e-future의 Online Library입니다. 전체적으로 마크업 작업을 하였고, 필요에 따라 부분적으로 디자인 한 것도 있습니다. 이 사이트는 국내 공부방용(소규모 결제)으로 만들어진 사이트입니다.
+  detail_url: https://2sora.github.io/2sora_work.github.io/library2/web/student/main/main.html
+  readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/library2/web/student
+
+
+- background_url: images/project5.jpg
+  animation: fadeInRight
+  name: e-Library(기본/모바일) - 학생
+  description: e-future의 Online Library입니다. 전체적으로 마크업 작업을 하였고, 다양한 모바일 기기에서 최적화 되도록 작업하였습니다. **모바일 화면에서 새로고침 후 확인부탁드립니다.**
+  detail_url: https://2sora.github.io/2sora_work.github.io/library1/mobile/production/main/profile.html
+  readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/library1/mobile/production/main/
+
+
+# Experience
+exp_meta: What have I achieved?
+exp_header: 저의 역량은 이렇습니다!
+exp_content: 부족하다 생각하실 수 있지만 저는 이런 퍼블리셔랍니다:)
+exp_services: # 형식에 맞추어 항목 추가
+- name: 커뮤니케이션
+  color: color-1
+  icon: icon-speech-bubble
+  content: 개발자, 디자이너와의 커뮤니케이션 능력이 뛰어납니다.
+- name: 프로젝트
+  color: color-2
+  icon: icon-fire2
+  content: 제가 맡은 일은 빠르게 처리할 수 있는 빠른 손을 가졌습니다.
+- name: 기술습득
+  color: color-3
+  icon: icon-eye
+  content: 제가 선택한 길, 항상 열정을 다해 공부하며 새로운 기술에 대해  끊임없이 공부하고 즐거운 마음으로 배웁니다.
+
+
+# Career
+carerr_meta: career
+career_header: Work Career
+career_list:
+- name: 쌤투쌤
+  date: 2021.11 ~ 2021.12
+  content: 교사와 학부모를 위한 교육자료 공유 플랫폼
+  color: color-1
+  icon: icon-pen2
+  animation: fadeInLeft
+- name: (주)이퓨쳐
+  date: 2018.03 ~ 2021.11
+  content: 온라인 영어 교육 전문업체. 유아동 영어 교재 출판사
+  color: color-2
+  icon: icon-pen2
+  animation: fadeInRight
+
+
+# Education
+edu_meta: Education
+edu_header: Education
+edu_list:
+- title: Smart Web Design & Contents Develop
+  subtitle: 스마트 웹 디자인 & 컨텐츠 개발 / 이젠컴퓨터학원
+  date: 2017.06 ~ 2017.12
+  content: 웹 퍼블리셔 양성 과정 수료
+- title: KANGWON UNIVERSITY
+  subtitle: 강원대학교 
+  date: 2012.03 - 2016.02
+  content: 강원대학교 방송영상학과 졸업
+- title: DONGNAM HIGH SCHOOL
+  subtitle: 동남고등학교
+  date: 2009.03 - 2012.02
+  content: 포천 동남고등학교 졸업
+
+# Contact
+contact_meta: Get in Touch
+contact_header: Contact
+contact_list:
+- title: 궁금한게 있으시면 연락주세요
+  icon: icon-globe-outline
+- title: 경기도 포천시
+  icon: icon-map
+- title: Kakao - Superman701
+  icon: icon-phone
+- title: e-mail
+  icon: icon-layers2
+  url: 2sora71@gmail.com
+contact_message: <em>연락해주셔서 감사합니다.</em> 24시간이내에 회신드리도록 하겠습니다. :)
+
+
+optional_front_matter:
+  remove_originals:    true
