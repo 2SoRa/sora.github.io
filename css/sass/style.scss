@@ -970,6 +970,10 @@ margin-left: -20px;
 		font-family: $font-primary;
 		margin-bottom: 10px;
 	}
+
+	@media screen and (max-width: $screen-sm){
+		margin-bottom: 2em;
+	}
 }
 //PROGRESS BAR
 .progress{

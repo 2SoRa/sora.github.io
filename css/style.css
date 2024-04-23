@@ -901,6 +901,11 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   font-family: "Quicksand", Arial, sans-serif;
   margin-bottom: 10px;
 }
+@media screen and (max-width: 768px) {
+  .progress-wrap {
+    margin-bottom: 2em;
+  }
+}
 
 .progress {
   height: 6px;
