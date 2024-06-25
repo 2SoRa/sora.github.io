@@ -154,12 +154,12 @@ project_team: # 형식에 맞추어 항목 추가
   description: 슈퍼브이 태블릿 내의 웹뷰 화면중 일부입니다. Vue3 환경에서 작업되었으며, 태블릿 내의 웹뷰 화면은 모두 마크업 했습니다.
   detail_url: https://2sora.github.io/2sora_work.github.io/growv_tablet_1/public/schedule.html
   readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/growv_tablet_1/src/views/launcher/schedule/comp/schedule.vue
-- background_url: images/growv_web_2.png
-  animation: fadeInRight
-  name: SuperReading Web Site - 50%
-  description: 슈퍼리딩 홈페이지입니다. 외주 작업과 함께 기존 슈퍼브이 홈페이지 소스를 기반으로 제작되었습니다. 유지보수 및 관리했습니다.
-  detail_url: https://2sora.github.io/2sora_work.github.io/library2/web/teacher/main/main.html
-  readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/library2/web/teacher
+# - background_url: images/growv_web_2.png
+  # animation: fadeInRight
+  # name: SuperReading Web Site - 50%
+  # description: 슈퍼리딩 홈페이지입니다. 외주 작업과 함께 기존 슈퍼브이 홈페이지 소스를 기반으로 제작되었습니다. 유지보수 및 관리했습니다.
+  # detail_url: https://2sora.github.io/2sora_work.github.io/library2/web/teacher/main/main.html
+  # readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/library2/web/teacher
 
 project_meta: My Work
 project_header: PROJECT in e-future
