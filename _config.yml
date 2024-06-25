@@ -142,13 +142,13 @@ project_load_more: 앞으로 더 많은 프로젝트가 추가될 예정입니�
 project_load_more_url: #
 project_team_name: Growv
 project_team: # 형식에 맞추어 항목 추가
-- background_url: images/growv_web_1.png
+- background_url: images/growv_web_1.jpg
   animation: fadeInRight
   name: SuperV Web Site - 70%
   description: 슈퍼브이 홈페이지입니다. 외주 작업으로 기본 틀이 제작되었지만, 이후 유지보수를 하며 코드를 대량 수정하였습니다.
   detail_url: https://2sora.github.io/2sora_work.github.io/growv_web_1/main.html
   readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/growv_web_1/
-- background_url: images/growv_tablet_1.png
+- background_url: images/growv_tablet_1.jpg
   animation: fadeInRight
   name: SuperV tablet WebView - 100%
   description: 슈퍼브이 태블릿 내의 웹뷰 화면중 일부입니다. Vue3 환경에서 작업되었으며, 태블릿 내의 웹뷰 화면은 모두 마크업 했습니다.
