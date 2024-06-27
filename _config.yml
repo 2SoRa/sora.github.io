@@ -5,7 +5,7 @@ description:
   Web Publisher SoRa Lee
 
 
-baseurl: ""
+baseurl: "https://sora.github.io"
 url: "https://sora.github.io"
 
 
@@ -155,6 +155,7 @@ project_team: # 형식에 맞추어 항목 추가
   detail_url: https://2sora.github.io/2sora_work.github.io/growv_tablet_1/public/schedule.html
   readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/growv_tablet_1/src/views/launcher/schedule/comp/schedule.vue
 project_team_name: e-future
+project_team: # 형식에 맞추어 항목 추가
 - background_url: images/project3.jpg
   animation: fadeInLeft
   name: e-Library(기본) - 선생님
