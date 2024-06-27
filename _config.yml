@@ -142,13 +142,13 @@ project_load_more: 앞으로 더 많은 프로젝트가 추가될 예정입니�
 project_load_more_url: #
 project_team_name: Growv
 project_team: # 형식에 맞추어 항목 추가
-- background_url: images/project6.jpg
+- background_url: images/project1.jpg
   animation: fadeInRight
   name: SuperV Web Site - 70%
   description: 슈퍼브이 홈페이지입니다. 외주 작업으로 기본 틀이 제작되었지만, 이후 유지보수를 하며 코드를 대량 수정하였습니다.
   detail_url: https://2sora.github.io/2sora_work.github.io/growv_web_1/main.html
   readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/growv_web_1/
-- background_url: images/project7.jpg
+- background_url: images/project2.jpg
   animation: fadeInRight
   name: SuperV tablet WebView - 100%
   description: 슈퍼브이 태블릿 내의 웹뷰 화면중 일부입니다. Vue3 환경에서 작업되었으며, 태블릿 내의 웹뷰 화면은 모두 마크업 했습니다.
@@ -156,31 +156,31 @@ project_team: # 형식에 맞추어 항목 추가
   readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/growv_tablet_1/src/views/launcher/schedule/comp/schedule.vue
 project_team_name: e-future
 project_team: # 형식에 맞추어 항목 추가
-- background_url: images/project1.jpg
+- background_url: images/project3.jpg
   animation: fadeInLeft
   name: e-Library(기본) - 선생님
   description: e-future의 Online Library입니다. 전체적으로 마크업 작업을 하였고, 필요에 따라 부분적으로 디자인 한 것도 있습니다. 이 사이트는 국내 기관(ex. 강원도 교육청)과 해외 수출용으로 만들어진 사이트입니다. 
   detail_url: https://2sora.github.io/2sora_work.github.io/library1/web/teacher/main/main.html
   readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/library1/web/teacher
-- background_url: images/project2.jpg
+- background_url: images/project4.jpg
   animation: fadeInLeft
   name: e-Library(기본) - 학생
   description: e-future의 Online Library입니다. 전체적으로 마크업 작업을 하였고, 필요에 따라 부분적으로 디자인 한 것도 있습니다. 이 사이트는 국내 기관(ex. 강원도 교육청)과 해외 수출용으로 만들어진 사이트입니다.
   detail_url: https://2sora.github.io/2sora_work.github.io/library1/web/student/main/main.html
   readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/library1/web/student
-- background_url: images/project3.jpg
+- background_url: images/project5.jpg
   animation: fadeInLeft
   name: e-Library(공부방) - 선생님
   description: e-future의 Online Library입니다. 전체적으로 마크업 작업을 하였고, 필요에 따라 부분적으로 디자인 한 것도 있습니다. 이 사이트는 국내 공부방용(소규모 결제)으로 만들어진 사이트입니다.
   detail_url: https://2sora.github.io/2sora_work.github.io/library2/web/teacher/main/main.html
   readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/library2/web/teacher
-- background_url: images/project4.jpg
+- background_url: images/project6.jpg
   animation: fadeInLeft
   name: e-Library(공부방) - 학생
   description: e-future의 Online Library입니다. 전체적으로 마크업 작업을 하였고, 필요에 따라 부분적으로 디자인 한 것도 있습니다. 이 사이트는 국내 공부방용(소규모 결제)으로 만들어진 사이트입니다.
   detail_url: https://2sora.github.io/2sora_work.github.io/library2/web/student/main/main.html
   readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/library2/web/student
-- background_url: images/project5.jpg
+- background_url: images/project7.jpg
   animation: fadeInLeft
   name: e-Library(기본/모바일) - 학생
   description: e-future의 Online Library입니다. 전체적으로 마크업 작업을 하였고, 다양한 모바일 기기에서 최적화 되도록 작업하였습니다. **모바일 화면에서 새로고침 후 확인부탁드립니다.**
