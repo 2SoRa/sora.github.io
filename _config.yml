@@ -140,8 +140,8 @@ project_header: PROJECT
 project_introduce: 제가 작업한 화면입니다.
 project_load_more: 앞으로 더 많은 프로젝트가 추가될 예정입니다:)    # 더보기 내용
 project_load_more_url: #
-project_team_name: Growv
-project_team: # 형식에 맞추어 항목 추가
+project_my_name: Growv
+project_my: # 형식에 맞추어 항목 추가
 - background_url: images/project1-1.png
   animation: fadeInRight
   name: SuperV Web Site - 70%
