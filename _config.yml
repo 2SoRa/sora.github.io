@@ -155,7 +155,7 @@ project_team: # 형식에 맞추어 항목 추가
   detail_url: https://2sora.github.io/2sora_work.github.io/growv_tablet_1/public/schedule.html
   readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/growv_tablet_1/src/views/launcher/schedule/comp/schedule.vue
 project_team_name: e-future
-project_team: # 형식에 맞추어 항목 추가
+project_team: e-Library # 형식에 맞추어 항목 추가
 - background_url: images/project3.jpg
   animation: fadeInLeft
   name: e-Library(기본) - 선생님
@@ -168,6 +168,7 @@ project_team: # 형식에 맞추어 항목 추가
   description: e-future의 Online Library입니다. 전체적으로 마크업 작업을 하였고, 필요에 따라 부분적으로 디자인 한 것도 있습니다. 이 사이트는 국내 기관(ex. 강원도 교육청)과 해외 수출용으로 만들어진 사이트입니다.
   detail_url: https://2sora.github.io/2sora_work.github.io/library1/web/student/main/main.html
   readmore_url: https://github.com/2SoRa/2sora_work.github.io/tree/main/library1/web/student
+project_team: e-Library(공부방) # 형식에 맞추어 항목 추가
 - background_url: images/project5.jpg
   animation: fadeInLeft
   name: e-Library(공부방) - 선생님
